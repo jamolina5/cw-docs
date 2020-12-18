@@ -1,7 +1,7 @@
 ---
 description: >-
-  With our native mobile app solution, we are able to package your online store
-  into your own custom branded mobile application.
+  With our mobile app solution, we are able to package your online store into
+  your own custom branded mobile application.
 ---
 
 # Setup an iOS & Android App
@@ -16,6 +16,4 @@ description: >-
 {% hint style="info" %}
 This application is compatible with Android and iOS platforms.
 {% endhint %}
-
-
 
