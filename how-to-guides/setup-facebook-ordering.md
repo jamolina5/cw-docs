@@ -24,7 +24,7 @@ After creating the app, you will be taken to the app dashboard. On the left menu
 
 Choose "Page Tab". You will now need to fill in your store URL under "Secure Page Tab URL" and what you want to call your page tab under "Page Tab Name". Your store URL can either be your Grubclick subdomain such as "https://yourdomain.grubclick.com" or your custom domain name if setup
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_cb565a.png)
+![](../.gitbook/assets/gcfbapp5.jpeg)
 
 To add the page tab to your Facebook page, you will need your Facebook App ID which you will see highlighted in orange in the previous photo at the top of the page
 
